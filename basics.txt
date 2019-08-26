@@ -3,3 +3,14 @@ data nd fun are not static in oop
 static fun call another static fun without creating an obj
 class variable: obj of class,each obj is created nd printed
 instance variable/fun:non static,computation with a particular obj
+
+git
+ 
+repositatry
+--------------- commit
+
+staging 
+
+--------------- add
+
+untracted
