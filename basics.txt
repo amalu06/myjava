@@ -8,3 +8,4 @@ GIT
 
 first file is initialized to the untracked state through the add command 
 the file is passed to the nxt stage ie staging state from this state we can 
+ohoo
